@@ -1,0 +1,1 @@
+# Veri_tabani_sql_uygulamalri
